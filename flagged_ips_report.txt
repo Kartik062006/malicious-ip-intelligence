@@ -1,0 +1,7 @@
+--- Automated Threat Intelligence Scan Results ---
+
+[!] MALICIOUS IPs (Action Required):
+45.133.1.107
+
+[?] SUSPICIOUS IPs (Monitor Closely):
+1.1.1.1
