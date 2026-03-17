@@ -19,7 +19,7 @@ This Python-based Security Operations (SecOps) script reads a list of network IP
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Kartik062006/malicious-ip-intelligence.git](https://github.com/Kartik062006/malicious-ip-intelligence)
+   git clone https://github.com/Kartik062006/malicious-ip-intelligence.git
    cd malicious-ip-intelligence
 
 2. **Install the required Python libraries:**
